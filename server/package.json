@@ -1,0 +1,41 @@
+{
+  "name": "sdm-catalogue-service",
+  "version": "0.1.0",
+  "description": "SDM Catalogue Service",
+  "keywords": [
+    "syndicate",
+    "syndicate-storage",
+    "catalogue-service",
+    "REST"
+  ],
+  "author": {
+    "name": "Illyoung Choi",
+    "email": "iychoi@email.arizona.edu",
+    "url": "https://github.com/iychoi/sdm-catalogue-service.git"
+  },
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iychoi/sdm-catalogue-service.git"
+  },
+  "dependencies": {
+    "express": "latest",
+    "express-session": "latest",
+    "cors": "latest",
+    "passport": "latest",
+    "passport-http": "latest",
+    "node-cache": "latest",
+    "express-ipfilter": "latest",
+    "range_check": "latest",
+    "body-parser": "latest",
+    "mkdirp": "latest",
+    "minimist": "latest",
+    "async": "latest",
+    "temp": "latest",
+    "sqlite3": "latest"
+  },
+  "devDependencies": {},
+  "bin": {
+    "sdm-catalogue-service": "index.js"
+  }
+}

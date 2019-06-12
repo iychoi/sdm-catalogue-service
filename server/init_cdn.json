@@ -1,0 +1,6 @@
+[
+{"dataset": "uhslc", "ag_url": "http://node18-syn.its.hawaii.edu:31541", "cdn_sites": [
+        {"name": "Princeton University", "gps_loc": [40.353477, -74.614742], "cdn_prefix": "http://hawaii-syn-cdn.opencloud.us"},
+        {"name": "University Of Hawaii", "gps_loc": [21.296928, -157.817097], "cdn_prefix": ""}
+        ]}
+]

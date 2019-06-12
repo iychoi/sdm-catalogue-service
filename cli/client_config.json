@@ -1,0 +1,6 @@
+{
+    "user": "admin",
+    "password": "letmein",
+    "service_host": "localhost",
+    "service_port": 8888
+}
